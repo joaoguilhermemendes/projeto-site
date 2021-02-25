@@ -1,6 +1,6 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 25px;
     
 }
 
@@ -14,5 +14,19 @@ main {
     padding: 10px;
     margin: auto;
     box-shadow: 3px 3px 5px;
-    width: 500px;
+    width: 900px;
+}
+
+a {
+    color: rgb(74, 14, 129);
+
+}
+
+img {
+    width: 100px;
+}
+
+img.meio {
+    width: 100px;
+    float: right;
 }
